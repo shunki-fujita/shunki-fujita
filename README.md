@@ -6,4 +6,4 @@
 - Kubernetes / Operators / ArgoCD
 - MySQL / MOCO / TiDB
 - Apache Kafka / Iceberg / Trino
-- Go / Python
+- Go / Python / Jsonnet  
